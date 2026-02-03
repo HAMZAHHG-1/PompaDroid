@@ -1,0 +1,4 @@
+characters 330x330
+
+goblin2_attack 
+15 frame - coal_ball appears

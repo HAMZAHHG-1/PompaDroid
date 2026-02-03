@@ -1,0 +1,8 @@
+fist1 180x180
+fist2 300x300
+
+
+
+
+
+4 frame of attack animation - fist appears

@@ -1,0 +1,769 @@
+fileFormatVersion: 2
+guid: 8122918513e6a864ea6ed03f6275e3f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3090906757871279940
+    second: werewolf_idle_0
+  - first:
+      213: -5691908414623685763
+    second: werewolf_idle_1
+  - first:
+      213: -7342045386748172322
+    second: werewolf_idle_2
+  - first:
+      213: 4922331854028949192
+    second: werewolf_idle_3
+  - first:
+      213: 6252199404420464589
+    second: werewolf_idle_4
+  - first:
+      213: 2935046640391508132
+    second: werewolf_idle_5
+  - first:
+      213: -6509536500915292463
+    second: werewolf_idle_6
+  - first:
+      213: 3341299257317658814
+    second: werewolf_idle_7
+  - first:
+      213: -1760958736226039068
+    second: werewolf_idle_8
+  - first:
+      213: 6309723349359230272
+    second: werewolf_idle_9
+  - first:
+      213: 301375856135261828
+    second: werewolf_idle_10
+  - first:
+      213: -3721368380321885215
+    second: werewolf_idle_11
+  - first:
+      213: -6018497744619121264
+    second: werewolf_idle_12
+  - first:
+      213: -4020491275954068254
+    second: werewolf_idle_13
+  - first:
+      213: -2754804867777841006
+    second: werewolf_idle_14
+  - first:
+      213: 3988058123981880941
+    second: werewolf_idle_15
+  - first:
+      213: 3510987092945378174
+    second: werewolf_idle_16
+  - first:
+      213: -3692897446024460181
+    second: werewolf_idle_17
+  - first:
+      213: -9002592962229594212
+    second: werewolf_idle_18
+  - first:
+      213: 699113308397384855
+    second: werewolf_idle_19
+  - first:
+      213: -3974705184328939440
+    second: werewolf_idle_20
+  - first:
+      213: 3711473609951147586
+    second: werewolf_idle_21
+  - first:
+      213: 2452110220930416864
+    second: werewolf_idle_22
+  - first:
+      213: -3518802765961875260
+    second: werewolf_idle_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: werewolf_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1035
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb06a371ea4ea15d0800000000000000
+      internalID: -3090906757871279940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1035
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d736c4434774201b0800000000000000
+      internalID: -5691908414623685763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_2
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1035
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7641ede90db1a90800000000000000
+      internalID: -7342045386748172322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_3
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1035
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c64cf9ddb2af4440800000000000000
+      internalID: 4922331854028949192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1035
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcff3659b3644c650800000000000000
+      internalID: 6252199404420464589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1035
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a05dbf6e516bb820800000000000000
+      internalID: 2935046640391508132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6318a9a0b79a5a0800000000000000
+      internalID: -6509536500915292463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 690
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb012b8b8fdae5e20800000000000000
+      internalID: 3341299257317658814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_8
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 690
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea402ffb51df87e0800000000000000
+      internalID: -1760958736226039068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 690
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d7b85b4f3a09750800000000000000
+      internalID: 6309723349359230272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_10
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 690
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e42d09eb3be2400800000000000000
+      internalID: 301375856135261828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_11
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 690
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e31b8cbc2b0b5cc0800000000000000
+      internalID: -3721368380321885215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095dc7a40300a7ca0800000000000000
+      internalID: -6018497744619121264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 345
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4633a6c785438c0800000000000000
+      internalID: -4020491275954068254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_14
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 345
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298b59e7197f4c9d0800000000000000
+      internalID: -2754804867777841006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_15
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 345
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6efc8febbd685730800000000000000
+      internalID: 3988058123981880941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_16
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 345
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b9df5b82889b030800000000000000
+      internalID: 3510987092945378174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_17
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 345
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68c3c1b65130ccc0800000000000000
+      internalID: -3692897446024460181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c979fdc066d501380800000000000000
+      internalID: -9002592962229594212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79436c499dfb3b900800000000000000
+      internalID: 699113308397384855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_20
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0588b2991b207d8c0800000000000000
+      internalID: -3974705184328939440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_21
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 0
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246ff52859dc18330800000000000000
+      internalID: 3711473609951147586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_22
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e089ac0145a70220800000000000000
+      internalID: 2452110220930416864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_idle_23
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 0
+        width: 345
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c03e2c1783ba2fc0800000000000000
+      internalID: -3518802765961875260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 95d5ca62dd4835b4d9530925c7e53543
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":4.0},"gridSpriteSize":{"x":345.0,"y":345.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      werewolf_idle_0: -3090906757871279940
+      werewolf_idle_1: -5691908414623685763
+      werewolf_idle_10: 301375856135261828
+      werewolf_idle_11: -3721368380321885215
+      werewolf_idle_12: -6018497744619121264
+      werewolf_idle_13: -4020491275954068254
+      werewolf_idle_14: -2754804867777841006
+      werewolf_idle_15: 3988058123981880941
+      werewolf_idle_16: 3510987092945378174
+      werewolf_idle_17: -3692897446024460181
+      werewolf_idle_18: -9002592962229594212
+      werewolf_idle_19: 699113308397384855
+      werewolf_idle_2: -7342045386748172322
+      werewolf_idle_20: -3974705184328939440
+      werewolf_idle_21: 3711473609951147586
+      werewolf_idle_22: 2452110220930416864
+      werewolf_idle_23: -3518802765961875260
+      werewolf_idle_3: 4922331854028949192
+      werewolf_idle_4: 6252199404420464589
+      werewolf_idle_5: 2935046640391508132
+      werewolf_idle_6: -6509536500915292463
+      werewolf_idle_7: 3341299257317658814
+      werewolf_idle_8: -1760958736226039068
+      werewolf_idle_9: 6309723349359230272
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

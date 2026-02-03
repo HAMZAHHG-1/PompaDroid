@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 0b7bd1cb29faeb9449466a7d1ae72581
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -164693621749744750
+    second: werewolf_walk_0
+  - first:
+      213: -137261339983359860
+    second: werewolf_walk_1
+  - first:
+      213: 9147610480852102163
+    second: werewolf_walk_2
+  - first:
+      213: 4125346773562566375
+    second: werewolf_walk_3
+  - first:
+      213: 8771950613879574006
+    second: werewolf_walk_4
+  - first:
+      213: -720970275167225397
+    second: werewolf_walk_5
+  - first:
+      213: -7991738089026986137
+    second: werewolf_walk_6
+  - first:
+      213: 6384531596630121055
+    second: werewolf_walk_7
+  - first:
+      213: 2340763498349063133
+    second: werewolf_walk_8
+  - first:
+      213: 7551457536460594586
+    second: werewolf_walk_9
+  - first:
+      213: -9123866926378305563
+    second: werewolf_walk_10
+  - first:
+      213: -2215816742500034135
+    second: werewolf_walk_11
+  - first:
+      213: 6401470530044708842
+    second: werewolf_walk_12
+  - first:
+      213: -6930587567940970953
+    second: werewolf_walk_13
+  - first:
+      213: -2833587743029953352
+    second: werewolf_walk_14
+  - first:
+      213: -1869348343746405278
+    second: werewolf_walk_15
+  - first:
+      213: -4118551530427086646
+    second: werewolf_walk_16
+  - first:
+      213: -8073016635451800361
+    second: werewolf_walk_17
+  - first:
+      213: 1647774504397274316
+    second: werewolf_walk_18
+  - first:
+      213: -707461783655877051
+    second: werewolf_walk_19
+  - first:
+      213: -4204923815300746317
+    second: werewolf_walk_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: werewolf_walk_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 737
+        width: 184
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b75da0604e6bdf0800000000000000
+      internalID: -164693621749744750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 738
+        width: 184
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80d5ecd989581ef0800000000000000
+      internalID: -137261339983359860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_2
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 738
+        width: 183
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c64d62447d2fe70800000000000000
+      internalID: 9147610480852102163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_3
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 738
+        width: 183
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e62085980d204930800000000000000
+      internalID: 4125346773562566375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_4
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 738
+        width: 183
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdcf878b9a3cb970800000000000000
+      internalID: 8771950613879574006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_5
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 738
+        width: 183
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9ba07ca599ef5f0800000000000000
+      internalID: -720970275167225397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_6
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 737
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f5691dc84a71190800000000000000
+      internalID: -7991738089026986137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 392
+        width: 185
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a556219a96a9850800000000000000
+      internalID: 6384531596630121055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 392
+        width: 186
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbeb46ffff0c7020800000000000000
+      internalID: 2340763498349063133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_9
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 392
+        width: 185
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d1e2dbe9a2cc860800000000000000
+      internalID: 7551457536460594586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_10
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 392
+        width: 184
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7394bee53816180800000000000000
+      internalID: -9123866926378305563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_11
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 393
+        width: 184
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a91cef9966df31e0800000000000000
+      internalID: -2215816742500034135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_12
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 393
+        width: 183
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae74277d78796d850800000000000000
+      internalID: 6401470530044708842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_13
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 393
+        width: 183
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736d328a35b91df90800000000000000
+      internalID: -6930587567940970953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 48
+        width: 182
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc7cc0f5f21da8d0800000000000000
+      internalID: -2833587743029953352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 48
+        width: 183
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cd789e59dbe06e0800000000000000
+      internalID: -1869348343746405278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_16
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 47
+        width: 184
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac880cf3437f7d6c0800000000000000
+      internalID: -4118551530427086646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_17
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 47
+        width: 185
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4831a8422e6ff80800000000000000
+      internalID: -8073016635451800361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_18
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 47
+        width: 186
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc7b847e221ed610800000000000000
+      internalID: 1647774504397274316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_19
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 47
+        width: 186
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546f60d81479e26f0800000000000000
+      internalID: -707461783655877051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolf_walk_20
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 47
+        width: 184
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b33b61911c15a5c0800000000000000
+      internalID: -4204923815300746317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      werewolf_walk_0: -164693621749744750
+      werewolf_walk_1: -137261339983359860
+      werewolf_walk_10: -9123866926378305563
+      werewolf_walk_11: -2215816742500034135
+      werewolf_walk_12: 6401470530044708842
+      werewolf_walk_13: -6930587567940970953
+      werewolf_walk_14: -2833587743029953352
+      werewolf_walk_15: -1869348343746405278
+      werewolf_walk_16: -4118551530427086646
+      werewolf_walk_17: -8073016635451800361
+      werewolf_walk_18: 1647774504397274316
+      werewolf_walk_19: -707461783655877051
+      werewolf_walk_2: 9147610480852102163
+      werewolf_walk_20: -4204923815300746317
+      werewolf_walk_3: 4125346773562566375
+      werewolf_walk_4: 8771950613879574006
+      werewolf_walk_5: -720970275167225397
+      werewolf_walk_6: -7991738089026986137
+      werewolf_walk_7: 6384531596630121055
+      werewolf_walk_8: 2340763498349063133
+      werewolf_walk_9: 7551457536460594586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
